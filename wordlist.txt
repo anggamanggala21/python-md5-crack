@@ -1,0 +1,12 @@
+12345678
+987654321
+admin123
+passwordhash
+md5hash
+md5crack
+pythoncrack
+test123
+root
+password
+admin87654321
+test123
